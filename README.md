@@ -6,4 +6,4 @@ I haven't included any build files, it's easy enough to build yourself or just u
 To play in 2 player mode run:\
 `$ cargo run -- -2p`\
 To play in single player mode run:\
-`$ cargo run`\
+`$ cargo run`
